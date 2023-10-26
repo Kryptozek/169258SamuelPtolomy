@@ -30,7 +30,7 @@ void divNumber(float value1,float value2)//A funtion to add
 
 int main(){
     //Function code block
-    float num1,num2;1
+    float num1,num2;
     cout<<"Enter the first number\n";
     cin>>num1;
     cout<<"Enter the second number\n";
